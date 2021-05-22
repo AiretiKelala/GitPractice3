@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Adding github now");
         System.out.println("YAY! STUFF ARE ON GITHUB");
         // new change
+        // doing changes fron github.com directly
     }
 }
